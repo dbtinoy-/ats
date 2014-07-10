@@ -1,0 +1,1 @@
+@extends('recruitment.layouts.default')

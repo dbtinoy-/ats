@@ -1,0 +1,127 @@
+
+<?php /* Content */ ?>
+<?php $__env->startSection('content'); ?>
+<!-- Tabs -->
+<ul class="nav nav-tabs">
+    <li class="active"><a href="#tab-general" data-toggle="tab">General</a></li>
+    <li><a href="#tab-user-info" data-toggle="tab">User Info</a></li>
+</ul>
+<!-- ./ tabs -->
+
+<?php /* Edit Cv Form */ ?>
+<form class="form-horizontal" method="post" action="<?php if (isset($cv)): ?><?php echo URL::to('recruitment/cvs/' . $cv->id . '/edit'); ?><?php endif; ?>" autocomplete="off">
+    <!-- CSRF Token -->
+    <input type="hidden" name="_token" value="<?php echo e(csrf_token()); ?>" />
+    <!-- ./ csrf token -->
+
+    <!-- Tabs Content -->
+    <div class="tab-content">
+        <!-- General tab -->
+        <div class="tab-pane active" id="tab-general">
+            <!-- Cv Title -->
+            <div class="form-group <?php echo e($errors->has('title') ? 'error' : ''); ?>">
+                <div class="col-xs-12">
+                    <label class="control-label" for="title">Title</label>
+                    <input class="form-control" type="text" name="title" id="title" value="<?php echo e(Input::old('title', isset($cv) ? $cv->title : null)); ?>" />
+                    <span class="help-block"><?php echo e($errors->first('title', ':message')); ?></span>
+                </div>
+            </div>
+            <!-- ./ cv title -->
+
+            <!-- Summary -->
+            <div class="form-group <?php echo e($errors->has('summary') ? 'has-error' : ''); ?>">
+                <div class="col-xs-12">
+                    <label class="control-label" for="summary">Description</label>
+                    <textarea class="form-control full-width wysihtml5" name="summary" value="summary" rows="10"><?php echo e(Input::old('summary', isset($cv) ? $cv->summary : null)); ?></textarea>
+                    <span class="help-block"><?php echo e($errors->first('summary', ':message')); ?></span>
+                </div>
+            </div>
+            <!-- ./ summary -->
+        </div>
+        <!-- ./ general tab -->
+
+
+        <div class="tab-pane" id="tab-user-info">
+
+            <div class="col-xs-4 <?php echo e($errors->has('user-firstname') ? 'error' : ''); ?>">
+
+                <label class="control-label" for="meta-title">First Name</label>
+                <input class="form-control" type="text" name="user-firstname" id="user-firstname" value="<?php echo e(Input::old('user-firstname', isset($cv->owner->firstname) ? $cv->owner->firstname : null)); ?>" />
+                <?php echo e($errors->first('user-firstname', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+
+            <div class="col-xs-4 <?php echo e($errors->has('user-middlename') ? 'error' : ''); ?>">
+
+                <label class="control-label" for="meta-title">Middle Name</label>
+                <input class="form-control" type="text" name="user-middlename" id="user-firstname" value="<?php echo e(Input::old('user-middlename', isset($cv->owner->middlename) ? $cv->owner->middlename : null)); ?>" />
+                <?php echo e($errors->first('user-middlename', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+
+            <div class="col-xs-4 <?php echo e($errors->has('user-lastname') ? 'error' : ''); ?>">
+
+                <label class="control-label" for="meta-title">Last Name</label>
+                <input class="form-control" type="text" name="user-firstname" id="user-firstname" value="<?php echo e(Input::old('user-lastname', isset($cv->owner->lastname) ? $cv->owner->lastname : null)); ?>" />
+                <?php echo e($errors->first('user-lastname', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+
+
+            <div class="col-xs-4 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+                <label class="control-label" for="meta-title">Gender</label>
+                <input class="form-control" type="text" name="user-gender" id="user-gender" value="<?php echo e(Input::old('user-gender', isset($cv->owner->gender) ? $cv->owner->gender : null)); ?>" />
+                <?php echo e($errors->first('user-gender', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+            <div class="col-xs-4 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+                <label class="control-label" for="meta-civil_status">Civil Status</label>
+                <input class="form-control" type="text" name="user-civil_status" id="user-gender" value="<?php echo e(Input::old('user-civil_status', isset($cv->owner->civil_status) ? $cv->owner->civil_status : null)); ?>" />
+                <?php echo e($errors->first('user-civil_status', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+            <div class="col-xs-4 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+                <label class="control-label" for="meta-citizenship">Citizenship</label>
+                <input class="form-control" type="text" name="user-citizenship" id="user-gender" value="<?php echo e(Input::old('user-citizenship', isset($cv->owner->citizenship) ? $cv->owner->citizenship : null)); ?>" />
+                <?php echo e($errors->first('user-citizenship', '<span class="help-block">:message</span>')); ?>
+
+            </div>          
+
+            <div class="col-xs-6 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+                <label class="control-label" for="meta-phone">Phone</label>
+                <input class="form-control" type="text" name="user-phone" id="user-phone" value="<?php echo e(Input::old('user-phone', isset($cv->owner->phone) ? $cv->owner->phone : null)); ?>" />
+                <?php echo e($errors->first('user-phone', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+            <div class="col-xs-6 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+                <label class="control-label" for="meta-email">Email</label>
+                <input class="form-control" type="text" name="user-email" id="user-email" value="<?php echo e(Input::old('user-email', isset($cv->owner->email) ? $cv->owner->email : null)); ?>" />
+                <?php echo e($errors->first('user-email', '<span class="help-block">:message</span>')); ?>
+
+            </div>          
+
+        </div>
+
+    </div>
+
+</div>
+<!-- ./ tabs content -->
+
+<!-- Form Actions -->
+<div class="form-group">
+    <div class="text-right controls">
+        <button class="btn btn-sm btn-link close_popup">Cancel</button>
+        <button type="reset" class="btn btn-sm btn-default">Reset</button>
+        <button type="submit" class="btn btn-sm btn-success"><?php if (isset($cv)): ?>Update <?php else: ?> New <?php endif; ?></button>
+    </div>
+</div>
+<!-- ./ form actions -->
+</form>
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('recruitment.layouts.modal', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

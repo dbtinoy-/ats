@@ -1,0 +1,131 @@
+
+<?php /* Content */ ?>
+<?php $__env->startSection('content'); ?>
+<!-- Tabs -->
+<ul class="nav nav-tabs">
+    <li class="active"><a href="#tab-general" data-toggle="tab">General</a></li>
+    <li><a href="#tab-user-info" data-toggle="tab">User Info</a></li>
+</ul>
+<!-- ./ tabs -->
+
+<?php /* Edit Job Form */ ?>
+<form class="form-horizontal" method="resume" action="<?php if (isset($resume)): ?><?php echo URL::to('admin/resumes/' . $resume->id . '/edit'); ?><?php endif; ?>" autocomplete="off">
+    <!-- CSRF Token -->
+    <input type="hidden" name="_token" value="<?php echo e(csrf_token()); ?>" />
+    <!-- ./ csrf token -->
+
+    <!-- Tabs Content -->
+    <div class="tab-content">
+        <!-- General tab -->
+        <div class="tab-pane active" id="tab-general">
+            <!-- Post Title -->
+            <div class="form-group <?php echo e($errors->has('title') ? 'error' : ''); ?>">
+                <div class="col-md-12">
+                    <label class="control-label" for="title">Resume Title</label>
+                    <input class="form-control" type="text" name="title" id="title" value="<?php echo e(Input::old('title', isset($resume) ? $resume->title : null)); ?>" />
+                    <?php echo e($errors->first('title', '<span class="help-block">:message</span>')); ?>
+                </div>
+            </div>
+            <!-- ./ resume title -->
+
+            <!-- Content -->
+            <div class="form-group <?php echo e($errors->has('content') ? 'has-error' : ''); ?>">
+                <div class="col-md-12">
+                    <label class="control-label" for="content">Summary</label>
+                    <textarea class="form-control full-width wysihtml5" name="content" value="content" rows="10"><?php echo e(Input::old('summary', isset($resume) ? $resume->summary : null)); ?></textarea>
+                    <?php echo e($errors->first('summary', '<span class="help-block">:message</span>')); ?>
+                </div>
+            </div>
+            <!-- ./ content -->
+        </div>
+
+
+
+        <div class="tab-pane" id="tab-user-info">
+          <div class="row">
+
+            <div class="col-md-4 <?php echo e($errors->has('user-firstname') ? 'error' : ''); ?>">
+
+                    <label class="control-label" for="meta-title">First Name</label>
+                    <input class="form-control" type="text" name="user-firstname" id="user-firstname" value="<?php echo e(Input::old('user-firstname', isset($resume->user->firstname) ? $resume->user->firstname : null)); ?>" />
+                    <?php echo e($errors->first('user-firstname', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+
+            <div class="col-md-4 <?php echo e($errors->has('user-middlename') ? 'error' : ''); ?>">
+
+                    <label class="control-label" for="meta-title">Middle Name</label>
+                    <input class="form-control" type="text" name="user-middlename" id="user-firstname" value="<?php echo e(Input::old('user-middlename', isset($resume->user->middlename) ? $resume->user->middlename : null)); ?>" />
+                    <?php echo e($errors->first('user-middlename', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+
+            <div class="col-md-4 <?php echo e($errors->has('user-lastname') ? 'error' : ''); ?>">
+
+                    <label class="control-label" for="meta-title">Last Name</label>
+                    <input class="form-control" type="text" name="user-firstname" id="user-firstname" value="<?php echo e(Input::old('user-lastname', isset($resume->user->lastname) ? $resume->user->lastname : null)); ?>" />
+                    <?php echo e($errors->first('user-lastname', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+
+
+            <div class="col-md-4 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+                    <label class="control-label" for="meta-title">Gender</label>
+                    <input class="form-control" type="text" name="user-gender" id="user-gender" value="<?php echo e(Input::old('user-gender', isset($resume->user->gender) ? $resume->user->gender : null)); ?>" />
+                    <?php echo e($errors->first('user-gender', '<span class="help-block">:message</span>')); ?>
+
+            </div>
+  <div class="col-md-4 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+          <label class="control-label" for="meta-civil_status">Civil Status</label>
+          <input class="form-control" type="text" name="user-civil_status" id="user-gender" value="<?php echo e(Input::old('user-civil_status', isset($resume->user->civil_status) ? $resume->user->civil_status : null)); ?>" />
+          <?php echo e($errors->first('user-civil_status', '<span class="help-block">:message</span>')); ?>
+
+  </div>
+  <div class="col-md-4 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+          <label class="control-label" for="meta-citizenship">Citizenship</label>
+          <input class="form-control" type="text" name="user-citizenship" id="user-gender" value="<?php echo e(Input::old('user-citizenship', isset($resume->user->citizenship) ? $resume->user->citizenship : null)); ?>" />
+          <?php echo e($errors->first('user-citizenship', '<span class="help-block">:message</span>')); ?>
+
+  </div>          
+            
+  <div class="col-md-6 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+          <label class="control-label" for="meta-phone">Phone</label>
+          <input class="form-control" type="text" name="user-phone" id="user-phone" value="<?php echo e(Input::old('user-phone', isset($resume->user->phone) ? $resume->user->phone : null)); ?>" />
+          <?php echo e($errors->first('user-phone', '<span class="help-block">:message</span>')); ?>
+
+  </div>
+  <div class="col-md-6 <?php echo e($errors->has('user-gender') ? 'error' : ''); ?>">
+
+          <label class="control-label" for="meta-email">Email</label>
+          <input class="form-control" type="text" name="user-email" id="user-email" value="<?php echo e(Input::old('user-email', isset($resume->user->email) ? $resume->user->email : null)); ?>" />
+          <?php echo e($errors->first('user-email', '<span class="help-block">:message</span>')); ?>
+
+  </div>          
+            
+            
+            
+          </div>
+
+
+        </div>
+        <!-- ./ meta data tab -->
+    </div>
+    <!-- ./ tabs content -->
+
+    <!-- Form Actions -->
+    <div class="form-group">
+        <div class="col-md-12">
+            <element class="btn-cancel close_popup">Cancel</element>
+            <button type="reset" class="btn btn-default">Reset</button>
+            <button type="submit" class="btn btn-success"><?php if (isset($resume)): ?>Update <?php else: ?> New <?php endif; ?></button>
+        </div>
+    </div>
+    <!-- ./ form actions -->
+</form>
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('admin.layouts.modal', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

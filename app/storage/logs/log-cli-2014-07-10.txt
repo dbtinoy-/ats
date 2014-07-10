@@ -1,0 +1,595 @@
+[2014-07-10 02:16:46] local.ERROR: 500 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'meta_description' in 'field list' (SQL: insert into `posts` (`content`, `created_at`, `meta_description`, `meta_keywords`, `meta_title`, `slug`, `title`, `updated_at`, `user_id`) values (In mea autem etiam menandri, quot elitr vim ei, eos semper disputationi id2014-07-10 02:16:46 Per facer appetere eu, duo et animal maiestatis. Omnesque invidunt mnesarchum ex mel, vis no case senserit dissentias. Te mei minimum singulis inimicus, ne labores accusam necessitatibus vel, vivendo nominavi ne sed. Posidonium scriptorem consequuntur cum exmeta_description1 Posse fabulas iudicabit in nec, eos cu electram forensibus, pro ei commodo tractatos reformidans. Qui eu lorem augue alterum, eos in facilis pericula mediocritatemmeta_keywords1
+
+Est hinc legimus oporteat in. Sit ei melius delicatissimi. Duo ex qualisque adolescens! Pri cu solum aeque. Aperiri docendi vituperatoribus has ea!
+
+Sed ut ludus perfecto sensibus, no mea iisque facilisi. Choro tation melius et mea, ne vis nisl insolens. Vero autem scriptorem cu quimeta_title1 Errem dolores no nam, mea tritani platonem id! At nec tantas consul, vis mundi petentium elaboraret ex, mel appareat maiestatis at.
+
+Sed et eros concludaturque. Mel ne aperiam comprehensam! Ornatus delicatissimi eam ex, sea an quidam tritani placeratlorem-ipsum-dolor-sit-amet Ad eius iriure consequat eam, mazim temporibus conclusionemque eum ex.
+
+Te amet sumo usu, ne autem impetus scripserit duo, ius ei mutat labore inciderint! Id nulla comprehensam hisLorem ipsum dolor sit amet Ut eam deleniti argumentum, eam appellantur definitionem ad. Pro et purto partem mucius!
+
+Cu liber primis sed, esse evertitur vis ad. Ne graeco maiorum mea! In eos nostro docendi conclusionemque. Ne sit audire blandit tractatos2014-07-10 02:16:46 An nec dicam causae meliore, pro tamquam offendit efficiendi ut.
+
+Te dicta sadipscing nam, denique albucius conclusionemque ne usu, mea eu euripidis philosophia! Qui at vivendo efficiendi! Vim ex delenit blandit oportere, in iriure placerat cum. Te cum meis altera, ius ex quis veri.
+
+Mutat propriae eu has, mel ne veri bonorum tincidunt. Per noluisse sensibus honestatis ut, stet singulis ea eam, his dicunt vivendum mediocrem ei. Ei usu mutat efficiantur, eum verear aperiam definitiones an! Simul dicam instructior ius ei. Cu ius facer doming cotidieque! Quot principes eu his, usu vero dicat an.
+
+Ex dicta perpetua qui, pericula intellegam scripserit id vel. Id fabulas ornatus necessitatibus mel. Prompta dolorem appetere ea has. Vel ad expetendis instructior!
+
+Te his dolorem adversarium66 Pri eu rebum viris, tation molestie id pri. Mel ei stet inermis dissentias. Sed ea dolorum detracto vituperata. Possit oportere similique cu nec, ridens animal quo exIn mea autem etiam menandri, quot elitr vim ei, eos semper disputationi id2014-07-10 02:16:46 Per facer appetere eu, duo et animal maiestatis. Omnesque invidunt mnesarchum ex mel, vis no case senserit dissentias. Te mei minimum singulis inimicus, ne labores accusam necessitatibus vel, vivendo nominavi ne sed. Posidonium scriptorem consequuntur cum exmeta_description2 Posse fabulas iudicabit in nec, eos cu electram forensibus, pro ei commodo tractatos reformidans. Qui eu lorem augue alterum, eos in facilis pericula mediocritatemmeta_keywords2
+
+Est hinc legimus oporteat in. Sit ei melius delicatissimi. Duo ex qualisque adolescens! Pri cu solum aeque. Aperiri docendi vituperatoribus has ea!
+
+Sed ut ludus perfecto sensibus, no mea iisque facilisi. Choro tation melius et mea, ne vis nisl insolens. Vero autem scriptorem cu quimeta_title2 Errem dolores no nam, mea tritani platonem id! At nec tantas consul, vis mundi petentium elaboraret ex, mel appareat maiestatis at.
+
+Sed et eros concludaturque. Mel ne aperiam comprehensam! Ornatus delicatissimi eam ex, sea an quidam tritani placeratvivendo-suscipiantur-vim-te-vix Ad eius iriure consequat eam, mazim temporibus conclusionemque eum ex.
+
+Te amet sumo usu, ne autem impetus scripserit duo, ius ei mutat labore inciderint! Id nulla comprehensam hisVivendo suscipiantur vim te vix Ut eam deleniti argumentum, eam appellantur definitionem ad. Pro et purto partem mucius!
+
+Cu liber primis sed, esse evertitur vis ad. Ne graeco maiorum mea! In eos nostro docendi conclusionemque. Ne sit audire blandit tractatos2014-07-10 02:16:46 An nec dicam causae meliore, pro tamquam offendit efficiendi ut.
+
+Te dicta sadipscing nam, denique albucius conclusionemque ne usu, mea eu euripidis philosophia! Qui at vivendo efficiendi! Vim ex delenit blandit oportere, in iriure placerat cum. Te cum meis altera, ius ex quis veri.
+
+Mutat propriae eu has, mel ne veri bonorum tincidunt. Per noluisse sensibus honestatis ut, stet singulis ea eam, his dicunt vivendum mediocrem ei. Ei usu mutat efficiantur, eum verear aperiam definitiones an! Simul dicam instructior ius ei. Cu ius facer doming cotidieque! Quot principes eu his, usu vero dicat an.
+
+Ex dicta perpetua qui, pericula intellegam scripserit id vel. Id fabulas ornatus necessitatibus mel. Prompta dolorem appetere ea has. Vel ad expetendis instructior!
+
+Te his dolorem adversarium66 Pri eu rebum viris, tation molestie id pri. Mel ei stet inermis dissentias. Sed ea dolorum detracto vituperata. Possit oportere similique cu nec, ridens animal quo exIn mea autem etiam menandri, quot elitr vim ei, eos semper disputationi id2014-07-10 02:16:46 Per facer appetere eu, duo et animal maiestatis. Omnesque invidunt mnesarchum ex mel, vis no case senserit dissentias. Te mei minimum singulis inimicus, ne labores accusam necessitatibus vel, vivendo nominavi ne sed. Posidonium scriptorem consequuntur cum exmeta_description3 Posse fabulas iudicabit in nec, eos cu electram forensibus, pro ei commodo tractatos reformidans. Qui eu lorem augue alterum, eos in facilis pericula mediocritatemmeta_keywords3
+
+Est hinc legimus oporteat in. Sit ei melius delicatissimi. Duo ex qualisque adolescens! Pri cu solum aeque. Aperiri docendi vituperatoribus has ea!
+
+Sed ut ludus perfecto sensibus, no mea iisque facilisi. Choro tation melius et mea, ne vis nisl insolens. Vero autem scriptorem cu quimeta_title3 Errem dolores no nam, mea tritani platonem id! At nec tantas consul, vis mundi petentium elaboraret ex, mel appareat maiestatis at.
+
+Sed et eros concludaturque. Mel ne aperiam comprehensam! Ornatus delicatissimi eam ex, sea an quidam tritani placeratin-iisque-similique-reprimique-eum Ad eius iriure consequat eam, mazim temporibus conclusionemque eum ex.
+
+Te amet sumo usu, ne autem impetus scripserit duo, ius ei mutat labore inciderint! Id nulla comprehensam hisIn iisque similique reprimique eum Ut eam deleniti argumentum, eam appellantur definitionem ad. Pro et purto partem mucius!
+
+Cu liber primis sed, esse evertitur vis ad. Ne graeco maiorum mea! In eos nostro docendi conclusionemque. Ne sit audire blandit tractatos2014-07-10 02:16:46 An nec dicam causae meliore, pro tamquam offendit efficiendi ut.
+
+Te dicta sadipscing nam, denique albucius conclusionemque ne usu, mea eu euripidis philosophia! Qui at vivendo efficiendi! Vim ex delenit blandit oportere, in iriure placerat cum. Te cum meis altera, ius ex quis veri.
+
+Mutat propriae eu has, mel ne veri bonorum tincidunt. Per noluisse sensibus honestatis ut, stet singulis ea eam, his dicunt vivendum mediocrem ei. Ei usu mutat efficiantur, eum verear aperiam definitiones an! Simul dicam instructior ius ei. Cu ius facer doming cotidieque! Quot principes eu his, usu vero dicat an.
+
+Ex dicta perpetua qui, pericula intellegam scripserit id vel. Id fabulas ornatus necessitatibus mel. Prompta dolorem appetere ea has. Vel ad expetendis instructior!
+
+Te his dolorem adversarium66 Pri eu rebum viris, tation molestie id pri. Mel ei stet inermis dissentias. Sed ea dolorum detracto vituperata. Possit oportere similique cu nec, ridens animal quo ex?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?)) @ /
+exception 'Illuminate\Database\QueryException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'meta_description' in 'field list' (SQL: insert into `posts` (`content`, `created_at`, `meta_description`, `meta_keywords`, `meta_title`, `slug`, `title`, `updated_at`, `user_id`) values (In mea autem etiam menandri, quot elitr vim ei, eos semper disputationi id2014-07-10 02:16:46 Per facer appetere eu, duo et animal maiestatis. Omnesque invidunt mnesarchum ex mel, vis no case senserit dissentias. Te mei minimum singulis inimicus, ne labores accusam necessitatibus vel, vivendo nominavi ne sed. Posidonium scriptorem consequuntur cum exmeta_description1 Posse fabulas iudicabit in nec, eos cu electram forensibus, pro ei commodo tractatos reformidans. Qui eu lorem augue alterum, eos in facilis pericula mediocritatemmeta_keywords1
+
+Est hinc legimus oporteat in. Sit ei melius delicatissimi. Duo ex qualisque adolescens! Pri cu solum aeque. Aperiri docendi vituperatoribus has ea!
+
+Sed ut ludus perfecto sensibus, no mea iisque facilisi. Choro tation melius et mea, ne vis nisl insolens. Vero autem scriptorem cu quimeta_title1 Errem dolores no nam, mea tritani platonem id! At nec tantas consul, vis mundi petentium elaboraret ex, mel appareat maiestatis at.
+
+Sed et eros concludaturque. Mel ne aperiam comprehensam! Ornatus delicatissimi eam ex, sea an quidam tritani placeratlorem-ipsum-dolor-sit-amet Ad eius iriure consequat eam, mazim temporibus conclusionemque eum ex.
+
+Te amet sumo usu, ne autem impetus scripserit duo, ius ei mutat labore inciderint! Id nulla comprehensam hisLorem ipsum dolor sit amet Ut eam deleniti argumentum, eam appellantur definitionem ad. Pro et purto partem mucius!
+
+Cu liber primis sed, esse evertitur vis ad. Ne graeco maiorum mea! In eos nostro docendi conclusionemque. Ne sit audire blandit tractatos2014-07-10 02:16:46 An nec dicam causae meliore, pro tamquam offendit efficiendi ut.
+
+Te dicta sadipscing nam, denique albucius conclusionemque ne usu, mea eu euripidis philosophia! Qui at vivendo efficiendi! Vim ex delenit blandit oportere, in iriure placerat cum. Te cum meis altera, ius ex quis veri.
+
+Mutat propriae eu has, mel ne veri bonorum tincidunt. Per noluisse sensibus honestatis ut, stet singulis ea eam, his dicunt vivendum mediocrem ei. Ei usu mutat efficiantur, eum verear aperiam definitiones an! Simul dicam instructior ius ei. Cu ius facer doming cotidieque! Quot principes eu his, usu vero dicat an.
+
+Ex dicta perpetua qui, pericula intellegam scripserit id vel. Id fabulas ornatus necessitatibus mel. Prompta dolorem appetere ea has. Vel ad expetendis instructior!
+
+Te his dolorem adversarium66 Pri eu rebum viris, tation molestie id pri. Mel ei stet inermis dissentias. Sed ea dolorum detracto vituperata. Possit oportere similique cu nec, ridens animal quo exIn mea autem etiam menandri, quot elitr vim ei, eos semper disputationi id2014-07-10 02:16:46 Per facer appetere eu, duo et animal maiestatis. Omnesque invidunt mnesarchum ex mel, vis no case senserit dissentias. Te mei minimum singulis inimicus, ne labores accusam necessitatibus vel, vivendo nominavi ne sed. Posidonium scriptorem consequuntur cum exmeta_description2 Posse fabulas iudicabit in nec, eos cu electram forensibus, pro ei commodo tractatos reformidans. Qui eu lorem augue alterum, eos in facilis pericula mediocritatemmeta_keywords2
+
+Est hinc legimus oporteat in. Sit ei melius delicatissimi. Duo ex qualisque adolescens! Pri cu solum aeque. Aperiri docendi vituperatoribus has ea!
+
+Sed ut ludus perfecto sensibus, no mea iisque facilisi. Choro tation melius et mea, ne vis nisl insolens. Vero autem scriptorem cu quimeta_title2 Errem dolores no nam, mea tritani platonem id! At nec tantas consul, vis mundi petentium elaboraret ex, mel appareat maiestatis at.
+
+Sed et eros concludaturque. Mel ne aperiam comprehensam! Ornatus delicatissimi eam ex, sea an quidam tritani placeratvivendo-suscipiantur-vim-te-vix Ad eius iriure consequat eam, mazim temporibus conclusionemque eum ex.
+
+Te amet sumo usu, ne autem impetus scripserit duo, ius ei mutat labore inciderint! Id nulla comprehensam hisVivendo suscipiantur vim te vix Ut eam deleniti argumentum, eam appellantur definitionem ad. Pro et purto partem mucius!
+
+Cu liber primis sed, esse evertitur vis ad. Ne graeco maiorum mea! In eos nostro docendi conclusionemque. Ne sit audire blandit tractatos2014-07-10 02:16:46 An nec dicam causae meliore, pro tamquam offendit efficiendi ut.
+
+Te dicta sadipscing nam, denique albucius conclusionemque ne usu, mea eu euripidis philosophia! Qui at vivendo efficiendi! Vim ex delenit blandit oportere, in iriure placerat cum. Te cum meis altera, ius ex quis veri.
+
+Mutat propriae eu has, mel ne veri bonorum tincidunt. Per noluisse sensibus honestatis ut, stet singulis ea eam, his dicunt vivendum mediocrem ei. Ei usu mutat efficiantur, eum verear aperiam definitiones an! Simul dicam instructior ius ei. Cu ius facer doming cotidieque! Quot principes eu his, usu vero dicat an.
+
+Ex dicta perpetua qui, pericula intellegam scripserit id vel. Id fabulas ornatus necessitatibus mel. Prompta dolorem appetere ea has. Vel ad expetendis instructior!
+
+Te his dolorem adversarium66 Pri eu rebum viris, tation molestie id pri. Mel ei stet inermis dissentias. Sed ea dolorum detracto vituperata. Possit oportere similique cu nec, ridens animal quo exIn mea autem etiam menandri, quot elitr vim ei, eos semper disputationi id2014-07-10 02:16:46 Per facer appetere eu, duo et animal maiestatis. Omnesque invidunt mnesarchum ex mel, vis no case senserit dissentias. Te mei minimum singulis inimicus, ne labores accusam necessitatibus vel, vivendo nominavi ne sed. Posidonium scriptorem consequuntur cum exmeta_description3 Posse fabulas iudicabit in nec, eos cu electram forensibus, pro ei commodo tractatos reformidans. Qui eu lorem augue alterum, eos in facilis pericula mediocritatemmeta_keywords3
+
+Est hinc legimus oporteat in. Sit ei melius delicatissimi. Duo ex qualisque adolescens! Pri cu solum aeque. Aperiri docendi vituperatoribus has ea!
+
+Sed ut ludus perfecto sensibus, no mea iisque facilisi. Choro tation melius et mea, ne vis nisl insolens. Vero autem scriptorem cu quimeta_title3 Errem dolores no nam, mea tritani platonem id! At nec tantas consul, vis mundi petentium elaboraret ex, mel appareat maiestatis at.
+
+Sed et eros concludaturque. Mel ne aperiam comprehensam! Ornatus delicatissimi eam ex, sea an quidam tritani placeratin-iisque-similique-reprimique-eum Ad eius iriure consequat eam, mazim temporibus conclusionemque eum ex.
+
+Te amet sumo usu, ne autem impetus scripserit duo, ius ei mutat labore inciderint! Id nulla comprehensam hisIn iisque similique reprimique eum Ut eam deleniti argumentum, eam appellantur definitionem ad. Pro et purto partem mucius!
+
+Cu liber primis sed, esse evertitur vis ad. Ne graeco maiorum mea! In eos nostro docendi conclusionemque. Ne sit audire blandit tractatos2014-07-10 02:16:46 An nec dicam causae meliore, pro tamquam offendit efficiendi ut.
+
+Te dicta sadipscing nam, denique albucius conclusionemque ne usu, mea eu euripidis philosophia! Qui at vivendo efficiendi! Vim ex delenit blandit oportere, in iriure placerat cum. Te cum meis altera, ius ex quis veri.
+
+Mutat propriae eu has, mel ne veri bonorum tincidunt. Per noluisse sensibus honestatis ut, stet singulis ea eam, his dicunt vivendum mediocrem ei. Ei usu mutat efficiantur, eum verear aperiam definitiones an! Simul dicam instructior ius ei. Cu ius facer doming cotidieque! Quot principes eu his, usu vero dicat an.
+
+Ex dicta perpetua qui, pericula intellegam scripserit id vel. Id fabulas ornatus necessitatibus mel. Prompta dolorem appetere ea has. Vel ad expetendis instructior!
+
+Te his dolorem adversarium66 Pri eu rebum viris, tation molestie id pri. Mel ei stet inermis dissentias. Sed ea dolorum detracto vituperata. Possit oportere similique cu nec, ridens animal quo ex?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?))' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Database/Connection.php:555
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Database/Connection.php(338): Illuminate\Database\Connection->run('insert into `po...', Array, Object(Closure))
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Database/Connection.php(295): Illuminate\Database\Connection->statement('insert into `po...', Array)
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(1748): Illuminate\Database\Connection->insert('insert into `po...', Array)
+#3 /home/dbtinoy/Documents/SITES/ats/app/database/seeds/PostsTableSeeder.php(65): Illuminate\Database\Query\Builder->insert(Array)
+#4 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(37): PostsTableSeeder->run()
+#5 /home/dbtinoy/Documents/SITES/ats/app/database/seeds/DatabaseSeeder.php(11): Illuminate\Database\Seeder->call('PostsTableSeede...')
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Database/Console/SeedCommand.php(52): DatabaseSeeder->run()
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Command.php(108): Illuminate\Database\Console\SeedCommand->fire()
+#8 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Command/Command.php(241): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Command.php(96): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(885): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(191): Symfony\Component\Console\Application->doRunCommand(Object(Illuminate\Database\Console\SeedCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(121): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 /home/dbtinoy/Documents/SITES/ats/artisan(59): Symfony\Component\Console\Application->run()
+#14 {main} [] []
+[2014-07-10 03:41:54] local.ERROR: 500 - Class AdminJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class AdminJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('AdminJobPostsCo...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('AdminJobPostsCo...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'AdminJobPostsCo...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(55): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(55): Illuminate\Support\Facades\Route::controller('job-posts', 'AdminJobPostsCo...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(83): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(83): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 03:48:15] local.ERROR: 500 - Command "router" is not defined.
+
+Did you mean this?
+    routes @ /
+exception 'InvalidArgumentException' with message 'Command "router" is not defined.
+
+Did you mean this?
+    routes' in /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php:562
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(188): Symfony\Component\Console\Application->find('router')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(121): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /home/dbtinoy/Documents/SITES/ats/artisan(59): Symfony\Component\Console\Application->run()
+#3 {main} [] []
+[2014-07-10 05:06:39] local.ERROR: 500 - Class AdminCvsController does not exist @ /
+exception 'ReflectionException' with message 'Class AdminCvsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('AdminCvsControl...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('AdminCvsControl...', 'cvs')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('cvs', 'AdminCvsControl...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(65): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(65): Illuminate\Support\Facades\Route::controller('cvs', 'AdminCvsControl...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(93): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(93): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 05:06:53] local.ERROR: 500 - Class AdminCvsController does not exist @ /
+exception 'ReflectionException' with message 'Class AdminCvsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('AdminCvsControl...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('AdminCvsControl...', 'cvs')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('cvs', 'AdminCvsControl...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(65): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(65): Illuminate\Support\Facades\Route::controller('cvs', 'AdminCvsControl...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(93): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(93): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 05:07:28] local.ERROR: 500 - Class AdminCvsController does not exist @ /
+exception 'ReflectionException' with message 'Class AdminCvsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('AdminCvsControl...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('AdminCvsControl...', 'cvs')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('cvs', 'AdminCvsControl...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(65): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(65): Illuminate\Support\Facades\Route::controller('cvs', 'AdminCvsControl...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(93): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(93): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 05:13:09] local.ERROR: 500 - Command "seed" is not defined.
+
+Did you mean one of these?
+    db:seed
+    generate:seed @ /
+exception 'InvalidArgumentException' with message 'Command "seed" is not defined.
+
+Did you mean one of these?
+    db:seed
+    generate:seed' in /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php:562
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(188): Symfony\Component\Console\Application->find('seed')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(121): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /home/dbtinoy/Documents/SITES/ats/artisan(59): Symfony\Component\Console\Application->run()
+#3 {main} [] []
+[2014-07-10 07:17:27] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:19:48] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:21:43] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:21:55] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:25:36] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:32:06] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:34:35] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:36:05] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:36:34] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:37:33] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(47): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(47): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(59): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(59): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:38:10] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:38:29] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:39:28] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:45:52] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 07:46:10] local.ERROR: 500 - Class RecruitmentJobPostsController does not exist @ /
+exception 'ReflectionException' with message 'Class RecruitmentJobPostsController does not exist' in /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php:28
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php(28): ReflectionClass->__construct('RecruitmentJobP...')
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(269): Illuminate\Routing\ControllerInspector->getRoutable('RecruitmentJobP...', 'job-posts')
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->controller('job-posts', 'RecruitmentJobP...')
+#3 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Facade::__callStatic('controller', Array)
+#4 /home/dbtinoy/Documents/SITES/ats/app/routes.php(98): Illuminate\Support\Facades\Route::controller('job-posts', 'RecruitmentJobP...')
+#5 [internal function]: {closure}(Object(Illuminate\Routing\Router))
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(679): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(211): Illuminate\Routing\Router->group(Array, Object(Closure))
+#8 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Facade::__callStatic('group', Array)
+#9 /home/dbtinoy/Documents/SITES/ats/app/routes.php(110): Illuminate\Support\Facades\Route::group(Array, Object(Closure))
+#10 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/start.php(269): require('/home/dbtinoy/D...')
+#11 [internal function]: {closure}(Object(Illuminate\Foundation\Application))
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): call_user_func(Object(Closure), Object(Illuminate\Foundation\Application))
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(569): Illuminate\Foundation\Application->fireAppCallbacks(Array)
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(552): Illuminate\Foundation\Application->bootApplication()
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(44): Illuminate\Foundation\Application->boot()
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Application.php(33): Illuminate\Console\Application::make(Object(Illuminate\Foundation\Application))
+#17 /home/dbtinoy/Documents/SITES/ats/artisan(46): Illuminate\Console\Application::start(Object(Illuminate\Foundation\Application))
+#18 {main} [] []
+[2014-07-10 08:25:01] local.ERROR: 500 - include(/home/dbtinoy/Documents/SITES/ats/app/database/seeds/ResumeTableSeeder.php): failed to open stream: No such file or directory @ /
+exception 'ErrorException' with message 'include(/home/dbtinoy/Documents/SITES/ats/app/database/seeds/ResumeTableSeeder.php): failed to open stream: No such file or directory' in /home/dbtinoy/Documents/SITES/ats/vendor/composer/ClassLoader.php:377
+Stack trace:
+#0 /home/dbtinoy/Documents/SITES/ats/vendor/composer/ClassLoader.php(377): Illuminate\Exception\Handler->handleError(2, 'include(/home/d...', '/home/dbtinoy/D...', 377, Array)
+#1 /home/dbtinoy/Documents/SITES/ats/vendor/composer/ClassLoader.php(377): Composer\Autoload\includeFile()
+#2 /home/dbtinoy/Documents/SITES/ats/vendor/composer/ClassLoader.php(269): Composer\Autoload\includeFile('/home/dbtinoy/D...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('ResumeTableSeed...')
+#4 [internal function]: spl_autoload_call('ResumeTableSeed...')
+#5 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Container/Container.php(501): ReflectionClass->__construct('ResumeTableSeed...')
+#6 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Container/Container.php(425): Illuminate\Container\Container->build('ResumeTableSeed...', Array)
+#7 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(463): Illuminate\Container\Container->make('ResumeTableSeed...', Array)
+#8 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(55): Illuminate\Foundation\Application->make('ResumeTableSeed...')
+#9 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(37): Illuminate\Database\Seeder->resolve('ResumeTableSeed...')
+#10 /home/dbtinoy/Documents/SITES/ats/app/database/seeds/DatabaseSeeder.php(13): Illuminate\Database\Seeder->call('ResumeTableSeed...')
+#11 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Database/Console/SeedCommand.php(52): DatabaseSeeder->run()
+#12 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Command.php(108): Illuminate\Database\Console\SeedCommand->fire()
+#13 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Command/Command.php(241): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 /home/dbtinoy/Documents/SITES/ats/vendor/laravel/framework/src/Illuminate/Console/Command.php(96): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(885): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#16 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(191): Symfony\Component\Console\Application->doRunCommand(Object(Illuminate\Database\Console\SeedCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 /home/dbtinoy/Documents/SITES/ats/vendor/symfony/console/Symfony/Component/Console/Application.php(121): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 /home/dbtinoy/Documents/SITES/ats/artisan(59): Symfony\Component\Console\Application->run()
+#19 {main} [] []
