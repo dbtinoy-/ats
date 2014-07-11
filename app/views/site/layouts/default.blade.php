@@ -42,6 +42,7 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{{ asset('assets/ico/apple-touch-icon-72-precomposed.png') }}}">
         <link rel="apple-touch-icon-precomposed" href="{{{ asset('assets/ico/apple-touch-icon-57-precomposed.png') }}}">
         <link rel="shortcut icon" href="{{{ asset('assets/ico/favicon.png') }}}">
+        <link rel="stylesheet" href="{{asset('assets/css/colorbox.css')}}">
     </head>
 
     <body>
@@ -121,7 +122,7 @@
         ================================================== -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script src="{{asset('bootstrap/js/bootstrap.min.js')}}"></script>
-
+        <script src="{{asset('assets/js/jquery.colorbox.js')}}"></script>
         @yield('scripts')
     </body>
 </html>

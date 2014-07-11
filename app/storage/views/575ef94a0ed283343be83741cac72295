@@ -1,18 +1,18 @@
 
 <?php /* Content */ ?>
 <?php $__env->startSection('content'); ?>
-<?php foreach ($posts as $post): ?>
+<!--<?php foreach ($posts as $post): ?>
 <div class="row">
     <div class="col-xs-8">
-        <!-- Post Title -->
+         Post Title 
         <div class="row">
             <div class="col-xs-8">
                 <h4><strong><a href="<?php echo e($post->url()); ?>"><?php echo String::title($post->title); ?></a></strong></h4>
             </div>
         </div>
-        <!-- ./ post title -->
+         ./ post title 
 
-        <!-- Post Content -->
+         Post Content 
         <div class="row">
             <div class="col-xs-2">
                 <a href="<?php echo e($post->url()); ?>" class="thumbnail"><img src="http://placehold.it/260x180" alt=""></a>
@@ -24,28 +24,37 @@
                 <p><a class="btn btn-mini btn-default" href="<?php echo e($post->url()); ?>">Read more</a></p>
             </div>
         </div>
-        <!-- ./ post content -->
+         ./ post content 
 
-        <!-- Post Footer -->
+         Post Footer 
         <div class="row">
             <div class="col-xs-8">
                 <p></p>
                 <p>
                     <span class="glyphicon glyphicon-user"></span> by <span class="muted"><?php echo e($post->author->username); ?></span>
-                    | <span class="glyphicon glyphicon-calendar"></span> <!--Sept 16th, 2012--><?php echo e($post->date()); ?>
+                    | <span class="glyphicon glyphicon-calendar"></span> Sept 16th, 2012<?php echo e($post->date()); ?>
                     | <span class="glyphicon glyphicon-comment"></span> <a href="<?php echo e($post->url()); ?>#comments"><?php echo $post->comments()->count(); ?> <?php echo \Illuminate\Support\Pluralizer::plural('Comment', $post->comments()->count()); ?></a>
                 </p>
             </div>
         </div>
-        <!-- ./ post footer -->
+         ./ post footer 
     </div>
 </div>
 
 <hr />
-<?php endforeach; ?>
+<?php endforeach; ?>-->
 
-<?php echo $posts->links(); ?>
-
+<!--<?php echo $posts->links(); ?>-->
+ <a href="<?php echo e(URL::to('user/cvs/create')); ?>" class="btn btn-small btn-info iframe"><span class="glyphicon glyphicon-plus-sign"></span> Create</a>
+       
 <?php $__env->stopSection(); ?>
-
+<?php /* Scripts */ ?>
+<?php $__env->startSection('scripts'); ?>
+<script type="text/javascript">
+    var oTable;
+    $(document).ready(function() {
+        $(".iframe").colorbox({iframe: true, width: "60%", height: "80%"});
+    });
+</script>
+<?php $__env->stopSection(); ?>
 <?php echo $__env->make('site.layouts.default', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

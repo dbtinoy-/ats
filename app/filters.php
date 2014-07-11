@@ -83,6 +83,8 @@ Entrust::routeNeedsRole('recruitment', array('recruiter'), Redirect::to('/'));
 Entrust::routeNeedsPermission('recruitment/job-posts*', 'manage_job_posts', Redirect::to('/recruitment'));
 Entrust::routeNeedsPermission('recruitment/cvs*', 'manage_cvs', Redirect::to('/recruitment'));
 
+//Entrust::routeNeedsPermission('user/cvs*', 'create_edit_cvs', Redirect::to('/user'));
+
 /*
   |--------------------------------------------------------------------------
   | CSRF Protection Filter

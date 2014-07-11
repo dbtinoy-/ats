@@ -40,13 +40,13 @@
             </div>
         </div>
 
-        @if ( Session::get('error') )
+<!--        @if ( Session::get('error') )
         <div class="alert alert-danger">{{ Session::get('error') }}</div>
         @endif
 
         @if ( Session::get('notice') )
         <div class="alert">{{ Session::get('notice') }}</div>
-        @endif
+        @endif-->
 
         <div class="form-group">
             <div class="col-xs-offset-2 col-xs-10">

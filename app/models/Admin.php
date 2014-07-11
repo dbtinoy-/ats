@@ -1,8 +1,7 @@
 <?php
 
-use Zizaco\Confide\ConfideUser;
 
-class Admin extends ConfideUser {
+class Admin extends Eloquent {
 
     protected $table = "users_admins";
 

@@ -1,6 +1,6 @@
 <?php
 
-class RecruitmentCvsController extends RecruitmentController {
+class UserCvsController extends BaseController {
 
     /**
      * Post Model
@@ -25,13 +25,16 @@ class RecruitmentCvsController extends RecruitmentController {
     public function getIndex() {
         
         // Title
-        $title = Lang::get('recruitment/cvs/title.cv_management');
+        $title = 'My CV';// Lang::get('user/cvs/title.cv_management');
 
         // Grab all the cvs
-        $cvs = $this->cv;
+        $user = Auth::user();
+        $cv = $user->userable()->cv;
+        
+        
 
         // Show the page
-        return View::make('recruitment/cvs/index', compact('cvs', 'title'));
+        return View::make('site/user/cvs/index', compact('cv', 'title'));
     }
 
     /**
@@ -42,9 +45,10 @@ class RecruitmentCvsController extends RecruitmentController {
     public function getCreate() {
         // Title
         $title = Lang::get('recruitment/cvs/title.create_a_new_cv');
-
+        $cv = Auth::user()->userable->cv;
+        
         // Show the page
-        return View::make('recruitment/cvs/create_edit', compact('title'));
+        return View::make('site/user/cvs/create_edit', compact('cv','title'));
     }
 
     /**
@@ -76,15 +80,15 @@ class RecruitmentCvsController extends RecruitmentController {
             // Was the cv created?
             if ($this->cv->save()) {
                 // Redirect to the new cv page
-                return Redirect::to('recruitment/cvs/' . $this->cv->id . '/edit')->with('success', Lang::get('recruitment/cvs/messages.create.success'));
+                return Redirect::to('user/cvs/' . $this->cv->id . '/edit')->with('success', Lang::get('recruitment/cvs/messages.create.success'));
             }
 
             // Redirect to the cv create page
-            return Redirect::to('recruitment/cvs/create')->with('error', Lang::get('recruitment/cvs/messages.create.error'));
+            return Redirect::to('user/cvs/create')->with('error', Lang::get('recruitment/cvs/messages.create.error'));
         }
 
         // Form validation failed
-        return Redirect::to('recruitment/cvs/create')->withInput()->withErrors($validator);
+        return Redirect::to('user/cvs/index')->withInput()->withErrors($validator);
     }
 
     /**
@@ -105,10 +109,10 @@ class RecruitmentCvsController extends RecruitmentController {
      */
     public function getEdit($cv) {
         // Title
-        $title = Lang::get('recruitment/cvs/title.cv_update');
+        $title = Lang::get('user/cvs/title.cv_update');
 
         // Show the page
-        return View::make('recruitment/cvs/create_edit', compact('cv', 'title'));
+        return View::make('site/user/cvs/create_edit', compact('cv', 'title'));
     }
 
     /**
@@ -138,15 +142,15 @@ class RecruitmentCvsController extends RecruitmentController {
             // Was the cv updated?
             if ($cv->save()) {
                 // Redirect to the new cv page
-                return Redirect::to('recruitment/cvs/' . $cv->id . '/edit')->with('success', Lang::get('recruitment/cvs/messages.update.success'));
+                return Redirect::to('user/cvs/' . $cv->id . '/edit')->with('success', Lang::get('recruitment/cvs/messages.update.success'));
             }
 
             // Redirect to the cvs post management page
-            return Redirect::to('recruitment/cvs/' . $cv->id . '/edit')->with('error', Lang::get('recruitment/cvs/messages.update.error'));
+            return Redirect::to('user/cvs/' . $cv->id . '/edit')->with('error', Lang::get('recruitment/cvs/messages.update.error'));
         }
 
         // Form validation failed
-        return Redirect::to('recruitment/cvs/' . $cv->id . '/edit')->withInput()->withErrors($validator);
+        return Redirect::to('user/cvs/' . $cv->id . '/edit')->withInput()->withErrors($validator);
     }
 
     /**

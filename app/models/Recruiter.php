@@ -1,8 +1,7 @@
 <?php
 
-use Zizaco\Confide\ConfideUser;
 
-class Recruiter extends ConfideUser {
+class Recruiter extends Eloquent {
 
     protected $table = "users_recruiters";
 

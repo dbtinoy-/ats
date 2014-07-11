@@ -108,13 +108,24 @@ Route::group(array('prefix' => 'recruitment', 'before' => 'auth'), function()
     # Recruitment Dashboard
     Route::controller('/', 'RecruitmentDashboardController');
 });
+Route::group(array('prefix' => 'user', 'before' => 'auth'), function()
+{
+
+    # Cv Management
+    Route::get('cvs/{cv}/show', 'UserCvsController@getShow');
+    Route::get('cvs/{cv}/edit', 'UserCvsController@getEdit');
+    Route::post('cvs/{cv}/edit', 'UserCvsController@postEdit');
+    Route::get('cvs/{cv}/delete', 'UserCvsController@getDelete');
+    Route::post('cvs/{cv}/delete', 'UserCvsController@postDelete');
+    Route::controller('cvs', 'UserCvsController');
+});
 
 
 /** ------------------------------------------
  *  Frontend Routes
  *  ------------------------------------------
  */
-Route::get('resume',  'ResumeController@getIndex');
+Route::get('my-cv',  'UserCvsController@getIndex');
 // User reset routes
 Route::get('user/reset/{token}', 'UserController@getReset');
 // User password reset

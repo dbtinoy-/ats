@@ -93,8 +93,11 @@ class User extends ConfideUser implements UserInterface, RemindableInterface {
     public function getReminderEmail() {
         return $this->email;
     }
+    
+    
     public function userable()
     {
         return $this->morphTo();
     }
+    
 }
